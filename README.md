@@ -7,7 +7,7 @@
 📫 Like to meet me? 
 <p><a href="https://www.linkedin.com/in/muhammad-siddiq-053002293/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <a href="https://mail.google.com/mail/u/?authuser=msiddiqkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> </p>
   </div>
-I am working in the fields of Machine Learning, Deep Learning, NLP, Computer Vision, LLM, and chatbot projects. I have developed various projects in these domains, focusing on model development, deployment lifecycle, and providing data-driven decition . My work involves applying statistical and analytical techniques to solve complex challenges.
+I am working in Machine Learning, Deep Learning, NLP, Computer Vision, LLM, and chatbot projects. I have developed various projects in these domains, focusing on model development, deployment lifecycle, and providing data-driven decition . My work involves applying statistical and analytical techniques to solve complex challenges.
 
 </br>
 
