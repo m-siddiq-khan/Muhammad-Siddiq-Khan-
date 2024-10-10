@@ -1,4 +1,6 @@
 # Muhammad-Siddiq-Khan-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 <!-- Profile Header -->
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
 # Hi there 👋 I'm Your Name!
